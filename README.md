@@ -8,4 +8,4 @@
 
 ## 文档
 * [php](document/php.md)
-* [other](software/other.md)
+* [other](document/other.md)
