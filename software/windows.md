@@ -10,3 +10,5 @@
 [Fiddler](http://www.telerik.com/fiddler) - 全平台 Web 代理
 
 [Wireshark](https://www.wireshark.org/) - 网络协议分析工具
+
+[Pixlr](https://pixlr.com/editor/) - 在线版 Photoshop
