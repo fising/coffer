@@ -9,6 +9,8 @@
 
 [ProxyCap](www.proxycap.com/) - ProxyCap - Proxifier and SSH Tunneler for Windows/Mac OS X
 
+[Proximac](proximac.io/) - Proximac - Proximac enforces all applications working through proxy servers
+
 ## 图像处理
 
 [Pixlr](https://pixlr.com/editor/) - 在线版 Photoshop
