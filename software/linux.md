@@ -5,3 +5,13 @@
 [fish shell](https://fishshell.com/) - a smart and user-friendly command line shell
 
 [Pixlr](https://pixlr.com/editor/) - 在线版 Photoshop
+
+## 科学上网
+
+[proxychains](https://github.com/haad/proxychains)
+
+[proxychains-ng](https://github.com/rofl0r/proxychains-ng)
+
+[redsocks](https://github.com/darkk/redsocks)
+
+[tsocks](http://tsocks.sourceforge.net/)
