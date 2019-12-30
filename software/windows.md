@@ -8,6 +8,8 @@
 
 [Viscosity](https://www.sparklabs.com/viscosity/) - 跨平台的 OpenVPN 客户端
 
+[v2rayN](https://github.com/2dust/v2rayN) - Socks/SS/SSR/V2RAY 客户端
+
 ## 网络抓包
 [Charles](https://www.charlesproxy.com/) - HTTP / HTTPS 抓包
 
