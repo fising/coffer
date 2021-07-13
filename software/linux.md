@@ -16,6 +16,8 @@
 
 [tsocks](http://tsocks.sourceforge.net/)
 
+[v2rayA](https://github.com/v2rayA/v2rayA)
+
 ## 远程桌面
 
 [ToDesk](https://www.todesk.com/) - 个人免费，替代 TeamViewer
