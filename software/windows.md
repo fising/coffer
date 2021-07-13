@@ -27,5 +27,7 @@
 
 [Cmder](https://cmder.net/) - 可替换系统 CMD 的命令行工具
 
+[BestTrace](https://www.ipip.net/) - 可视化 traceroute 工具
+
 ## 看图软件
 [FSViewer/FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm) - Fast Stone 出品的免费看图软件
